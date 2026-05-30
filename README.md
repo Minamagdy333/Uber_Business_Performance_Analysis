@@ -59,5 +59,16 @@ Vehicle Performance KPIs\
 ![uploading_Screenshot 2026-05-30 153235.png](https://github.com/Minamagdy333/Data-Analysis-Uber-App/blob/main/Screenshot%202026-05-30%20153235.png)
 ![uploading_Screenshot 2026-05-30 153257.png](https://github.com/Minamagdy333/Data-Analysis-Uber-App/blob/main/Screenshot%202026-05-30%20153257.png)
 ![uploading_Screenshot 2026-05-30 153315.png](https://github.com/Minamagdy333/Data-Analysis-Uber-App/blob/main/Screenshot%202026-05-30%20153315.png)
-
+# Key Insights
+Total revenue reached 52M, with Auto being the highest-performing vehicle type, contributing 13M in revenue, while Uber XL generated the lowest revenue at 1.5M.\
+March was a strong revenue month for multiple vehicle types, with Auto reaching its peak monthly revenue (1.15M) and Uber XL recording its highest monthly revenue (145K).\
+A total of 93K bookings were successfully completed. Auto accounted for the highest number of completed bookings (23K), highlighting its strong customer demand.\
+Total lost bookings reached 57K, with Auto recording the highest booking losses (14K). This suggests an opportunity to improve operational efficiency and booking fulfillment.\
+The platform served 104K customers, with Auto attracting the largest customer base (33K), followed by Bike (29K) and GO Mini (28K).\
+Customer activity was lowest in February, indicating a seasonal decline in demand during that period.\
+UPI was the most preferred payment method, generating 23M in revenue from 37K transactions, making it the dominant payment channel.\
+Debit Card was the least preferred payment method, contributing only 4M in revenue and 8K transactions.\
+Revenue, completed bookings, and customer counts show a strong positive relationship across vehicle types, with Auto consistently leading all key performance metrics.\
+Despite generating the highest revenue, Auto also recorded the highest number of lost bookings, indicating potential revenue growth opportunities if booking losses are reduced.\
+# Tools Used (Power BI, DAX, Power Query,ETL,Data Clean)
 
