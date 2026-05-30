@@ -50,9 +50,11 @@ Payment KPIs\
 Vehicle Performance KPIs\
 -Revenue per Vehicle Type\
 -Completed Bookings per Vehicle Type\
+-Lost Bookings per Vehicle Type\
+-Customers per Vehicle Type
 
 # Dashboard
 ![uploading_Screenshot 2026-05-30 153103.png](https://github.com/Minamagdy333/Data-Analysis-Uber-App/blob/main/Screenshot%202026-05-30%20153103.png)
+![uploading_Screenshot 2026-05-30 153201.png](https://github.com/Minamagdy333/Data-Analysis-Uber-App/blob/main/Screenshot%202026-05-30%20153201.png)
 
--Lost Bookings per Vehicle Type\
--Customers per Vehicle Type
+
