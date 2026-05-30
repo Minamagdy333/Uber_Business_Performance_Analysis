@@ -65,9 +65,13 @@ The dashboard consists of five analytical pages:
 # Dashboard Screenshots
 # HomePage
 ![uploading_Screenshot 2026-05-30 153103.png](https://github.com/Minamagdy333/Data-Analysis-Uber-App/blob/main/Screenshot%202026-05-30%20153103.png)
-![Overview_Screenshot 2026-05-30 153201.png](https://github.com/Minamagdy333/Data-Analysis-Uber-App/blob/main/Screenshot%202026-05-30%20153201.png)
+# Overview Analysis
+![uploading_Screenshot 2026-05-30 153201.png](https://github.com/Minamagdy333/Data-Analysis-Uber-App/blob/main/Screenshot%202026-05-30%20153201.png)
+# Vehicle Performance Analysis
 ![uploading_Screenshot 2026-05-30 153235.png](https://github.com/Minamagdy333/Data-Analysis-Uber-App/blob/main/Screenshot%202026-05-30%20153235.png)
+#  Revenue Analysis
 ![uploading_Screenshot 2026-05-30 153257.png](https://github.com/Minamagdy333/Data-Analysis-Uber-App/blob/main/Screenshot%202026-05-30%20153257.png)
+# Customer Analysis
 ![uploading_Screenshot 2026-05-30 153315.png](https://github.com/Minamagdy333/Data-Analysis-Uber-App/blob/main/Screenshot%202026-05-30%20153315.png)
 # Key Insights
 -Total revenue reached 52M, with Auto being the highest-performing vehicle type, contributing 13M in revenue, while Uber XL generated the lowest revenue at 1.5M.\
@@ -80,5 +84,17 @@ The dashboard consists of five analytical pages:
 -Debit Card was the least preferred payment method, contributing only 4M in revenue and 8K transactions.\
 -Revenue, completed bookings, and customer counts show a strong positive relationship across vehicle types, with Auto consistently leading all key performance metrics.\
 -Despite generating the highest revenue, Auto also recorded the highest number of lost bookings, indicating potential revenue growth opportunities if booking losses are reduced.\
-# Tools Used (Power BI, DAX, Power Query,ETL,Data Clean)
+# Tools Used
+- Power BI
+- Power Query
+- DAX
+- ETL Process
+- Data Cleaning
+- Data Modeling
+# Conclusion
+- Auto was the primary revenue driver, generating the highest revenue, bookings, and customer volume.
+- UPI emerged as the dominant payment method in both transactions and revenue.
+- March represented a peak revenue period across multiple vehicle categories.
+- Lost bookings remain a significant operational challenge, particularly for Auto vehicles.
+- Improving booking fulfillment rates could unlock additional revenue growth opportunities.
 
