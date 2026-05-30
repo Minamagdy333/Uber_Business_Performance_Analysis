@@ -9,3 +9,9 @@ Revenue Analysis \
 3-Which vehicle type generates the lowest revenue?\
 4-How does revenue vary across months for each vehicle type?\
 5-Which month records the highest revenue performance?\
+Booking Analysis\
+1-How many bookings were successfully completed?\
+2-Which vehicle type has the highest completed bookings?\
+3-Which vehicle type has the highest lost bookings?\
+4-What is the overall booking loss rate?\
+5-Which vehicle types experience the greatest booking losses?
