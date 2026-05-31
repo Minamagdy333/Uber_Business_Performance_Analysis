@@ -97,4 +97,3 @@ The dashboard consists of five analytical pages:
 - March represented a peak revenue period across multiple vehicle categories.
 - Lost bookings remain a significant operational challenge, particularly for Auto vehicles.
 - Improving booking fulfillment rates could unlock additional revenue growth opportunities.
-
